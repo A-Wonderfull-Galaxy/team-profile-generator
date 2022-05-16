@@ -1,0 +1,19 @@
+.width6rem {
+    width: 8rem;
+}
+
+.nav-background{
+    background-color: rgb(199, 65, 65);
+}
+
+.character-color{
+    color: aliceblue ;
+}
+
+.team-background{
+    background-color: rgb(34, 110, 252) ;
+}
+
+.box-shadow{
+    box-shadow: 5px 5px 5px rgb(114, 114, 114);
+}
